@@ -1,0 +1,3 @@
+# Module gaetwiliosmsexample
+# RPC service class, partial path of RPC policy file
+com.lcddave.gae.twilio.sms.client.GreetingService, 46AE7384558DB815FC3E45C7F1E216E4.gwt.rpc

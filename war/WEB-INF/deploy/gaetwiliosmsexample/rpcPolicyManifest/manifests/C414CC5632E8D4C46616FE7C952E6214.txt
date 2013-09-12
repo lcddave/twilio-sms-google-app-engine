@@ -1,0 +1,2 @@
+serviceClass: com.lcddave.gae.twilio.sms.client.GreetingService
+path: 46AE7384558DB815FC3E45C7F1E216E4.gwt.rpc
